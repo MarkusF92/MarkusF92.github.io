@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="facebook" horiz-adv-x="1000" >
+<font-face font-family="facebook" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="xing" unicode="&#xf168;" d="M333 478q-5-10-143-255-15-25-36-25h-134q-12 0-17 9t0 20l141 250q1 0 0 1l-90 156q-7 12 0 20 5 9 17 9h134q22 0 37-26z m450 358q6-9 0-21l-295-521v0l188-344q6-11 0-20-5-9-17-9h-134q-23 0-37 25l-189 348q10 18 296 525 14 25 36 25h135q12 0 17-8z" horiz-adv-x="785.7" />
+</font>
+</defs>
+</svg>
